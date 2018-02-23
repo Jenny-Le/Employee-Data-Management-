@@ -1,0 +1,25 @@
+.jumbotron{
+    background-color: gray;
+    color: black;
+}
+
+.table{
+    table-layout: fixed;
+}
+
+.panel-pink{
+    border-color: black;
+}
+
+.panel-pink > .panel-heading{
+    color: black;
+    background-color: gray;
+    border-color: gray;
+    font-weight: bold;
+}
+
+.btn-pink{
+    color: black;
+    background-color: gray;
+    border-color: black;
+}
